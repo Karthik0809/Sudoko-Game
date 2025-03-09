@@ -15,7 +15,7 @@ This is a GUI-based Sudoku game built using Python and Tkinter. It allows users 
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Sudoko-Game.git
+   git clone https://github.com/Karthik0809/Sudoko-Game.git
    cd Sudoko-Game
    ```
 2. Install dependencies (if required):
@@ -46,9 +46,6 @@ This is a GUI-based Sudoku game built using Python and Tkinter. It allows users 
 - Implement a mobile-friendly version.
 - Improve puzzle generation for better uniqueness.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
-Developed by [Your Name]. Feel free to contribute and improve the game!
+Developed by Karthik Mulugu. Feel free to contribute and improve the game!
 
