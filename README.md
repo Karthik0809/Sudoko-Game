@@ -47,5 +47,5 @@ This is a GUI-based Sudoku game built using Python and Tkinter. It allows users 
 - Improve puzzle generation for better uniqueness.
 
 ## Author
-Developed by Karthik Mulugu. Feel free to contribute and improve the game!
+Developed by **Karthik Mulugu**. Feel free to contribute and improve the game!
 
